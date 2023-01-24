@@ -1,0 +1,5 @@
+﻿.idea/inspectionProfiles
+.idea
+.ipynb_checkpoints
+__pycache__
+wandb
